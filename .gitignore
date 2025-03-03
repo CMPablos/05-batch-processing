@@ -11,5 +11,6 @@ wheels/
 .venv
 
 # Data files
-*.parquet
+*.parquet*
 *.csv
+*_SUCCESS*
